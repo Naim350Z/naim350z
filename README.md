@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a React.js project**
 
-- 🌱 I’m currently learning **Php, Node Js and React**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React Js, Javascript and Sass**
+- 💬 Ask me about **React Js, Node, Javascript and Sass**
 
 - 📫 How to reach me **naimzian.dev@gmail.com**
 
