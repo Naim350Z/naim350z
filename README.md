@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naim</h1>
-<h3 align="center">A passionate frontend developer from Belgium</h3>
+<h3 align="center">A passionate Front-End developer from Belgium</h3>
 
 - 🔭 I’m currently working on **a React.js project**
 
