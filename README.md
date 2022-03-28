@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **naimzian.dev@gmail.com**
 
-- ⚡ Fun fact **I'm the best front-end developer to hire in 2021**
+- ⚡ Fun fact **I'm the best front-end developer to hire in 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
